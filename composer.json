@@ -20,7 +20,8 @@
         "drupal/core-project-message": "^9.4",
         "drupal/core-recommended": "^9.4",
         "drupal/core-vendor-hardening": "^9.4",
-        "drupal/enhanced_button_link": "^1.0"
+        "drupal/enhanced_button_link": "^1.0",
+        "drush/drush": "^11.6"
     },
     "conflict": {
         "drupal/drupal": "*"
